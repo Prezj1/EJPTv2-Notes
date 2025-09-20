@@ -98,6 +98,7 @@
 # Enum4linux
 
 - `enum4linux -o <ip>` : get os version
+- `wnum4linux -a [ip]` : looks up everything
 - `enum4linux -U <ip>` : enum users (use -u <user> -p <pass> for auth enum)
 - `enum4linux -S <ip>` : enum shares
 - `enum4linux -G <ip>` : enum domain groups
